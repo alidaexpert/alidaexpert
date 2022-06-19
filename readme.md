@@ -1,8 +1,11 @@
 # 💫About Me :
+## Hi, I am ALI Hossain
 🧿 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br> 
 📫 How to reach me ? alisainofficial71@gmail.com <br>
+
+I’m a MERN Stack Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past few years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Custome website using HTML, CSS, Bootstrap, Javascript, React,Redux but some technologies I enjoy working with include NodeJS,ExpressJS,MongoDB ReactJS, JavaScript as well as PHP.
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/alidaexpert) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/alihossain#5040) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alisainofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alisainofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alidaexpert) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/alidaexpert) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alisainofficial) 
